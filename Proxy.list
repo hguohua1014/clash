@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 
 # IP段代理
 IP-CIDR,94.140.14.15/32,no-resolve
